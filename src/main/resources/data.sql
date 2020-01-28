@@ -1,0 +1,1 @@
+insert into patient values(1,sysdate(),'AB');
